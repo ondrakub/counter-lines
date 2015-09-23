@@ -33,7 +33,7 @@ if (isset($args[1])) {
 
 } else {
 	echo "
-		Code lines
+		Counter lines
 		----------------------------
 		Usage: {$args[0]} [<directory> | <file>]
 		";
