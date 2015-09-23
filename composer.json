@@ -1,0 +1,16 @@
+{
+	"name": "ondrakub/counter-lines",
+	"type": "project",
+	"description": "Command-line script to calculate lines of file.",
+	"license": ["BSD-3-Clause"],
+	"authors": [
+		{
+			"name": "Ondřej Kubíček",
+			"homepage": "http://www.kubon.cz"
+		}
+	],
+	"require": {
+		"php": ">=5.5"
+	},
+	"bin": ["convert"]
+}
